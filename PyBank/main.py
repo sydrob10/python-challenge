@@ -69,5 +69,5 @@ with open(csvpath, "r") as csvfile:
     print(f'Greatest Increase in Proft: {max_gain[0]} (${max_gain[1]})')
     print(f'Greatest Decrease in Profit: {min_loss[0]} (${min_loss[1]})')
     file.close()
-    #export text file with results
+    
      
